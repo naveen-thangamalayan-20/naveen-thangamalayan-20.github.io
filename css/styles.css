@@ -603,6 +603,7 @@ progress {
   max-width: 100%;
   height: auto;
   background-color: white;
+  min-height: 17rem;
 }
 
 .img-thumbnail {
@@ -11004,6 +11005,10 @@ html {
   max-width: 25rem;
   border-radius: 0.5rem;
   overflow: hidden;
+  text-decoration: none;
+}
+.portfolio-item-description {
+  color: #2C3E50
 }
 .portfolio .portfolio-item .portfolio-item-caption {
   position: absolute;
